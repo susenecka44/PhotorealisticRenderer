@@ -1,4 +1,4 @@
-# Documentation of the r004 RayTracer - renderer
+# Documentation of RayTracer - renderer
 
 ## Author
 
